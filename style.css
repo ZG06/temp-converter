@@ -1,0 +1,25 @@
+QPushButton, QLineEdit, QTextBrowser {
+	font-family: Fira Code;
+	background-color: white;
+	border: 1px solid #000000;
+	border-radius: 7px;
+}
+
+QPushButton:hover {
+	background-color: #f2f3f4;
+}
+
+QLineEdit {
+	font-size: 12px;
+	font-weight: 500;
+}
+
+QTextBrowser {
+	font-size: 14px;
+	background-color: white;
+	font-weight: 450;
+}
+
+QPushButton {
+	font-weight: 460;
+}
